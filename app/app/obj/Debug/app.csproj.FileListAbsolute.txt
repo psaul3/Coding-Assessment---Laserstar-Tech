@@ -1,0 +1,15 @@
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\bin\Debug\app.exe.config
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\bin\Debug\app.exe
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\bin\Debug\app.pdb
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\MainWindow.g.cs
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\App.g.cs
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app_MarkupCompile.cache
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app_MarkupCompile.lref
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\MainWindow.baml
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.g.resources
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.Properties.Resources.resources
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.csproj.GenerateResource.Cache
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.exe
+F:\Tito\Documents\GitHub\Coding Assessment - Laserstar Tech\app\app\obj\Debug\app.pdb
